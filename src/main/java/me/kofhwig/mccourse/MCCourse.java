@@ -12,7 +12,7 @@ public class MCCourse implements ModInitializer {
 
 	@Override
 	public void onInitialize() {
-
+        // logger
 		LOGGER.info("Hello Fabric world! [LOADED SUCCESSFUL]");
 	}
 }
